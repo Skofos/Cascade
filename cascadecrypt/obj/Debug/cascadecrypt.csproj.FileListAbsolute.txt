@@ -1,0 +1,6 @@
+C:\Users\Skofos\source\repos\cascadecrypt\cascadecrypt\bin\Debug\cascadecrypt.exe
+C:\Users\Skofos\source\repos\cascadecrypt\cascadecrypt\bin\Debug\cascadecrypt.pdb
+C:\Users\Skofos\source\repos\cascadecrypt\cascadecrypt\obj\Debug\cascadecrypt.csprojAssemblyReference.cache
+C:\Users\Skofos\source\repos\cascadecrypt\cascadecrypt\obj\Debug\cascadecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Skofos\source\repos\cascadecrypt\cascadecrypt\obj\Debug\cascadecrypt.exe
+C:\Users\Skofos\source\repos\cascadecrypt\cascadecrypt\obj\Debug\cascadecrypt.pdb
