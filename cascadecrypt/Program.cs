@@ -11,15 +11,16 @@ namespace cascadecrypt
     {
         static void Main(string[] args)
         {
-            string hackit = "c4scadek3y654321";
-            string encrypted = "BQO5l5Kj9MdErXx6Q6AGOw==";
-            string password = decrypt(encrypted, hackit);
+            string hackit = "c4scadek3y654321"; //key
+            string encrypted = "BQO5l5Kj9MdErXx6Q6AGOw=="; //pwd encrypted with base64 at Audit.db
+            string password = decrypt(encrypted, hackit); // lul
             Console.Write(password);
             Console.ReadLine();
         }
-        public static string lmao = "1tdyjCbY1Ix49842";
+        public static string lmao = "1tdyjCbY1Ix49842"; // IV keyshit
         public static string decrypt(string encrypted, string key)
         {
+            // there we go
             byte[] array = Convert.FromBase64String(encrypted);
             Aes aes = Aes.Create();
             aes.KeySize = 128;
