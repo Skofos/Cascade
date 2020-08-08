@@ -12,7 +12,7 @@ namespace cascadecrypt
         static void Main(string[] args)
         {
             string hackit = "c4scadek3y654321"; //key
-            string encrypted = "BQO5l5Kj9MdErXx6Q6AGOw=="; //pwd encrypted with base64 at Audit.db
+            string encrypted = "BQO5l5Kj9MdErXx6Q6AGOw=="; //pwd encrypted
             string password = decrypt(encrypted, hackit); // lul
             Console.Write(password);
             Console.ReadLine();
